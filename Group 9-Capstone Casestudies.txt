@@ -1,0 +1,37 @@
+Case Study-1
+Participants need to check on below:
+Write the test cases for below scenarios:
+Launch Axis bank internet banking and navigate to:
+1.  FasTag -> NPCI -> Retail Login Page.
+2.  Explore Product--> Agri And Rural Account. Account Krishi Current Account 
+==================================================================================================
+Case Study-2
+Create an SQL table for Axis Bank customer and perform below activities:
+1.  Add the below mentioned attribute and add records for 20 customers: customer_id, customerName, credit_limit, applicable, cvv, expiry_date, kyc_status.
+2.  Write the query below:  Get all data for the customer which has KYC status verified?
+3.  Calculate the (SUM)balance who is done with KYC.
+4.  What is the average Balance limit for KYC status(Y/N) (particular) KYC status from the table?
+5.  Display the name of a customer who has a credit_limit more than 45000.
+6.  Display name of customer, who has expiry date after 2025 and having credit limit > 50000.
+==================================================================================================
+Case Study-3
+Automate the steps of the website through selenium with JAVA.
+https://register.rediff.com/register/register.php?FormName=user_details
+1. Launch the website.
+2. Maximize the webpage.
+3. Get the title of the page and print it.
+4. Enter full name.
+5. Get the print of fullname.
+6. Choose Rediffemailid.
+7. Enter the password.
+8. Retype the password.
+9. Enter the alternate email address.
+10. Enter mobile number.
+11. Get the print of the phone number.
+==================================================================================================
+Case Study-4
+Participants need to check on below and write the test cases for below scenarios:
+Launch the below website:
+https://www.goindigo.in/?utm_source=google&utm_medium=cpc&utm_campaign=search_campaign_6exclusivefare&cid=Search|Brand|P|6ExclusiveFare|21Sept&s_kwcid=AL!12293!3!714366880494!b!!g!!goindigo&gad_source=1&gclid=Cj0KCQjwmt24BhDPARIsAJFYKk2fVJfIcTkoN3kx_-po4_t6CrtUKtl_vFBJJD4hd9fZjfeI6UrMfhIaApOtEALw_wcB
+2.  Write the detailed test case for "Round Trip" Booking.
+3.  Need test case in proper test case format.
